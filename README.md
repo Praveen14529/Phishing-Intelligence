@@ -1,4 +1,10 @@
 # PhishGuard v2 — Phishing Intelligence Dashboard
+<img width="1917" height="1078" alt="Screenshot 2026-10-25 224412" src="https://github.com/user-attachments/assets/070a24b8-4379-4465-87f1-178a32075594" />
+<img width="1917" height="1078" alt="Screenshot 2026-10-25 224430" src="https://github.com/user-attachments/assets/185f1d25-0f0f-4d37-9ee8-d04a29e56b5e" />
+<img width="1917" height="1078" alt="Screenshot 2026-10-25 224437" src="https://github.com/user-attachments/assets/0d772225-564f-4400-989a-3dca1844011a" />
+
+
+
 
 Full-stack cybersecurity platform for detecting fake/phishing domains.
 
