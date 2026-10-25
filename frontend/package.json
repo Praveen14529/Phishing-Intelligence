@@ -1,0 +1,9 @@
+{
+  "name": "phishguard-frontend",
+  "version": "2.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node -e \"require('node:fs').mkdirSync('dist',{recursive:true});require('node:fs').copyFileSync('index.html','dist/index.html')\"",
+    "test": "node --test"
+  }
+}

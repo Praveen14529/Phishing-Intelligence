@@ -1,0 +1,21 @@
+# Local environment files (keep example templates)
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+**/venv/
+**/.venv/
+**/.venv-*/
+.pytest_cache/
+
+# Node.js
+**/node_modules/
+
+# Local databases and editor files
+*.db
+*.sqlite
+*.sqlite3
+.vscode/
